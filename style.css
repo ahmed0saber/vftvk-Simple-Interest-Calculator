@@ -2,16 +2,16 @@ body {background-color:black;
       font-family:Arial;  
       font-size:12px;
        }
-h1{color:grey;
-font-size:33px;}
-.maindiv{
-    background-color:white;
+h1{color:#777;
+font-size:34px;}
+.mainDiv{
+    background-color:#fff;
     width: fit-content;
     padding:20px;
-    border-radius:25px;
+    border-radius:20px;
     margin:auto;
 }
-.subdiv{
+.subDiv{
     width: fit-content;
     margin:auto;
 }
