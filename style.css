@@ -11,14 +11,11 @@ font-size:32px;}
     border-radius:25px;
     margin:auto;
 }
-
 label{
     width:70px;
     display: inline-block;
     font-weight:bold;
 }
-
-
 .highlight{
     background-color:yellow;
     font-weight:bold;
