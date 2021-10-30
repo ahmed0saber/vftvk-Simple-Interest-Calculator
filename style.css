@@ -6,7 +6,7 @@ h1{color:grey;
 font-size:32px;}
 .maindiv{
     background-color:white;
-    width:100%;
+    width: fit-content;
     padding:20px;
     border-radius:25px;
     margin:auto;
