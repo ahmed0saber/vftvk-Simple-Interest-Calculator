@@ -11,6 +11,10 @@ font-size:32px;}
     border-radius:25px;
     margin:auto;
 }
+.subdiv{
+    width: fit-content;
+    margin:auto;
+}
 label{
     width:70px;
     display: inline-block;
